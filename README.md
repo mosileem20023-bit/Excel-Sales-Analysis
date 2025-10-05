@@ -1,10 +1,7 @@
-## 📊 Project Files
-
-- [Download Excel Dashboard](Excel-Sales-Analysis.xlsx)
-- [View Diagram 1](Dashboard_Excel)
-- [View Diagram 2](Data_Modeling_Excel)
-
----
+## 📂 Project Files
+- [Download Excel Dashboard](Excel%20Sales%20Analysis.xlsx)
+- [View Diagram 1](Data%20Modeling%20for%20Project%201(Diagram%20View).PNG)
+- [View Diagram 2](Dashboard%20Excel.PNG)
 
 ## 📘 Description
 
