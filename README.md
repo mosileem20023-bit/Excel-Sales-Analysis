@@ -2,7 +2,7 @@
 
 - [Download Excel Dashboard](Excel-Sales-Analysis.xlsx)
 - [View Diagram 1](Dashboard_Excel)
-- [View Diagram 2](Data Modeling Excel)
+- [View Diagram 2](Data_Modeling_Excel)
 
 ---
 
