@@ -5,10 +5,9 @@ A small Excel project that analyzes monthly sales and revenue and provides chart
 ## Dashboard Previews
 
 <p align="center">
-  <img src="Dashboard Excel.png" alt="Dashboard Excel" width="48%" />
-  <img src="Data Modeling for Project 1(Diagram View)" alt="Data Modeling for Project 1(Diagram View)="48%" />
+  <img src="Data_Modeling_Diagram.png" alt="Dashboard Overview" width="45%" />
+  <img src="Sales_Insights.png" alt="Monthly Trends" width="45%" />
 </p>
-
 *Files*
 - Sales_Analysis.xlsx — main workbook
 - dashboard_overview.png — preview
